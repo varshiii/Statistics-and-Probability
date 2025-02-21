@@ -1,6 +1,6 @@
 # 📊 Statistics and Probability Notes
 ## 🚀 Overview
-This repository contains detailed notes on Statistics and Probability, essential topics in data science and analytics. These notes are part of my ongoing 30-day learning challenge, aimed at enhancing my understanding of foundational concepts and their applications in data analysis.
+This repository contains detailed notes on Statistics and Probability, essential topics in data science and analytics. These notes are part of my ongoing 30-day learning challenge, aimed at enhancing my understanding of foundational concepts and their applications in data Science.
 ## 📄 What's Included?
 1. **Data Types:**
 Numeric Data: Continuous and Discrete data types.
